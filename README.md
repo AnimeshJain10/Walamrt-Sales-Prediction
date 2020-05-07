@@ -1,4 +1,4 @@
-# Face-Recognition-Using-LBPH
+# Walmart-Sales-Prediction
 
 Language Used:
 Python
