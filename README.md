@@ -6,7 +6,7 @@ Python
 Technology Used:
 Machine Learning 
 
-Algorithm Used For Preditcion:
+Algorithm Used For Prediction:
 Linear Regression,
 Decision Tree Regressor, 
 Random Forest. 
